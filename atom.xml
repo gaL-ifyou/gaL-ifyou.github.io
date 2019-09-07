@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gaL-ifyou.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-09-07T05:06:16.199Z</updated>
+    <title>gali</title>
+    <updated>2019-09-07T05:08:47.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gaL-ifyou.github.io"/>
     <link rel="self" href="https://gaL-ifyou.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>区区微草、可以成原</subtitle>
     <logo>https://gaL-ifyou.github.io/images/avatar.png</logo>
     <icon>https://gaL-ifyou.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, gali</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://gaL-ifyou.github.io/post/hello-gridea</id>
