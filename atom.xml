@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/jiali/Documents/Gridea/output</id>
+    <id>https://gaL.github.io</id>
     <title>Gali</title>
-    <updated>2020-05-10T02:16:06.769Z</updated>
+    <updated>2020-05-14T14:37:10.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/jiali/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/jiali/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://gaL.github.io"/>
+    <link rel="self" href="https://gaL.github.io/atom.xml"/>
     <subtitle>区区微草、可以成原</subtitle>
-    <logo>C:/Users/jiali/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/jiali/Documents/Gridea/output/favicon.ico</icon>
+    <logo>https://gaL.github.io/images/avatar.png</logo>
+    <icon>https://gaL.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gali</rights>
     <entry>
         <title type="html"><![CDATA[Appium]]></title>
-        <id>C:/Users/jiali/Documents/Gridea/output/post/appnium/index.html</id>
-        <link href="C:/Users/jiali/Documents/Gridea/output/post/appnium/index.html">
+        <id>https://gaL.github.io/post/appnium</id>
+        <link href="https://gaL.github.io/post/appnium">
         </link>
         <updated>2020-03-21T04:43:13.000Z</updated>
         <content type="html"><![CDATA[<p>appnium自动化部署<br>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[selenium+python]]></title>
-        <id>C:/Users/jiali/Documents/Gridea/output/post/seleniumpython/index.html</id>
-        <link href="C:/Users/jiali/Documents/Gridea/output/post/seleniumpython/index.html">
+        <id>https://gaL.github.io/post/seleniumpython</id>
+        <link href="https://gaL.github.io/post/seleniumpython">
         </link>
         <updated>2020-03-14T07:49:12.000Z</updated>
         <content type="html"><![CDATA[<h1 id="环境安装">环境安装</h1>
@@ -162,8 +162,8 @@ get_screenshot_as_file(imgpath)   --imgpath为保存路径<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[github+Gridea静态博客]]></title>
-        <id>C:/Users/jiali/Documents/Gridea/output/post/githubgridea-jing-tai-bo-ke/index.html</id>
-        <link href="C:/Users/jiali/Documents/Gridea/output/post/githubgridea-jing-tai-bo-ke/index.html">
+        <id>https://gaL.github.io/post/githubgridea-jing-tai-bo-ke</id>
+        <link href="https://gaL.github.io/post/githubgridea-jing-tai-bo-ke">
         </link>
         <updated>2019-09-07T05:36:19.000Z</updated>
         <content type="html"><![CDATA[<p>创建github博客<br>
